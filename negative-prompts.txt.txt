@@ -1,0 +1,15 @@
+flat, low contrast, oversaturated, underexposed, overexposed, blurred, noise, noisy, ugly, tiling, poorly drawn hands, 
+poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, 
+bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, 
+distorted face, blurry, draft, grainy, crooked eyes
+
+((((ugly)))), (((duplicate))), ((morbid)), ((mutilated)), out of frame, extra fingers, mutated hands, 
+((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, 
+((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, 
+ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), 
+((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), 
+(too many fingers), (((long neck)))
+
+low quality,medium quality, 3d,frame,bw,watermark,logo,((letters)),paint,draw,(text),(worst quality:2), 
+(low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), 
+((grayscale)), (green shadow)
